@@ -1,7 +1,7 @@
 # BASE DE DATOS MONGODB 
 ## MongoDB - Mongo Express - Docker
 
-Si quieres inicializar una base de datos MongoDB si tenerla instalada localmente puedes clonar este repositorio e inicializarla utilizando Docker.
+Si quieres inicializar una base de datos MongoDB sin tenerla instalada localmente puedes clonar este repositorio e inicializarla utilizando Docker.
 
 ### Clonar y Ejecutar Proyecto con Docker compose
 
